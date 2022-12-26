@@ -2,7 +2,7 @@
 
 ## Coming Soon
 
-**Rainbow Obsidian** theme for the Obsidian note-taking application.
+**Rainbow Obsidian** theme for the [Obsidian.md](https://Obsidian.md) note-taking application.
 
 Colors inspired by the [Penumbra Color Theme](https://github.com/nealmckee/penumbra)
 
