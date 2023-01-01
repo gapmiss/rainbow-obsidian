@@ -13,3 +13,8 @@ Colors inspired by the [Penumbra Color Theme](https://github.com/nealmckee/penum
 ## Sneak Preview
 
 > coming soon
+
+## Palette
+
+![light-palette](./assets/light-palette.png)
+![dark-palette](./assets/dark-palette.png)
